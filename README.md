@@ -1,0 +1,1 @@
+# Simon Game: A simple memory game where the player must repeat a sequence of flashing colors. Built with HTML, CSS, and JavaScript.
